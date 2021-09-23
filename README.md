@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Projeto com create React App e react-lottie
 ## Available Scripts
 
 In the project directory, you can run:
