@@ -1,2 +1,2 @@
 # Lottie-React
-Animação lottie
+Animação lottie de click
